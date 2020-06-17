@@ -24,7 +24,8 @@ Software that will recognize human hand gestures and operate the VLC media playe
    $python3 face_unlock.py
 
 6. To execute hand gesture recogniton code:
-$ python test.py
+
+   $ python test.py
 
 7. To execute autopygui module, go inside mousegesture-master directory and run the code:
 $ python v1_mouseGes.py
